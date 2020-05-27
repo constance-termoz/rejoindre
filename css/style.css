@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700|Noto+Serif:400,700,700i&display=swap');
+
+
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card-white.css");
+@import url("components/list-inline.css");
+
+
+
+h2 {
+  text-align: center;
+}

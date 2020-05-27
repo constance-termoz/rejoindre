@@ -1,0 +1,27 @@
+.banner {
+	background-image:linear-gradient(-225deg,rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 50%), url(../../images/team.png);
+	color:white;
+	padding: 50px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+	text-align: center;
+}
+
+.banner p {
+	font-size: 20px;
+	margin-left: 20px;
+	margin-top: -40px;
+}
+
+.banner p:hover {
+	color:#F2F2E4;
+}
+
+.banner a {
+	text-decoration: none;
+	color:#EBD2C7;
+}
